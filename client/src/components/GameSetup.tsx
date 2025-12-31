@@ -136,6 +136,7 @@ export default function GameSetup() {
               <li>• I turni si alternano tra i giocatori</li>
               <li>• Visualizza la tabella dei punteggi in qualsiasi momento</li>
               <li>• La partita termina quando tutti hanno completato le 12 categorie</li>
+              <li>• Se non funziona insultatemi </li>
             </ul>
           </div>
         </div>

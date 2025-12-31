@@ -64,7 +64,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="bg-primary/10 backdrop-blur-sm border-t-2 border-primary/20 py-4 px-4 text-center text-muted-foreground">
-        <p>Yahtzee Game © 2025 - Gioca e divertiti!</p>
+        <p>Franceschino © 2025 - Yahtzee!</p>
       </footer>
     </div>
   );
