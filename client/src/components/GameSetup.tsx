@@ -26,7 +26,7 @@ export default function GameSetup() {
   };
 
   const handleAddPlayer = () => {
-    if (playerNames.length < 6) {
+    if (playerNames.length < 20) {
       setPlayerNames([...playerNames, '']);
     }
   };
@@ -108,7 +108,7 @@ export default function GameSetup() {
             </div>
 
             {/* Add Player Button */}
-            {playerNames.length < 6 && (
+            {playerNames.length < 20 && (
               <Button
                 variant="outline"
                 onClick={handleAddPlayer}
