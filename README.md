@@ -1,2 +1,1 @@
-# yahtzee
-a nice dice game!
+gyat
