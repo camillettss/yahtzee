@@ -28,7 +28,7 @@ export default function Home() {
       }}
     >
       {/* Header */}
-      <header className="bg-primary/10 backdrop-blur-sm border-b-2 border-primary/20 py-4 px-4">
+      <header className="bg-primary/5 shadow-md backdrop-blur-md border-b-2 border-primary/20 py-4 px-4">
         <div className="container">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">

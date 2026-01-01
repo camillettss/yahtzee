@@ -55,7 +55,7 @@ export default function GameSetup() {
   };
 
   return (
-    <div className="max-w-2xl mx-auto">
+    <div className="max-w-2xl mx-auto shadow-lg">
       <Card className="p-8 bg-card/95 backdrop-blur-sm border-2 border-primary/20 shadow-lg">
         <div className="space-y-6">
           {/* Title */}
